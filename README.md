@@ -58,11 +58,11 @@ Já tenho experiência com Python e Delphi/Pascal, e gosto de trabalhar em equip
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img 
+img 
     align="left" 
     alt="Delphi/Pascal" 
     title="Delphi/Pascal"
-    width="30px" 
+    height="30px" 
     style="padding-right: 10px;" 
     src="https://img.shields.io/badge/-Delphi%2FPascal-E23237?style=flat&logoColor=white" 
 />
