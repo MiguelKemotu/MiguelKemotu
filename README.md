@@ -72,7 +72,7 @@ Já tenho experiência com Python e Delphi/Pascal, e gosto de trabalhar em equip
 ### 📂 Projetos
 
 - [Python](https://github.com/MiguelKemotu/Python) — estudos e exercícios de Python
-- [Delphi](https://github.com/MiguelKemotu/Delphi) — curso de Pascal/Delphi (front-end e back-end)
+- [Delphi](https://github.com/MiguelKemotu/Delphi) — curso de Delphi/Pascal (front-end e back-end)
 
 ---
 
