@@ -69,19 +69,6 @@ Já tenho experiência com Python e gosto de trabalhar em equipe, sempre buscand
 - [Python](https://github.com/MiguelKemotu/Python) — estudos e exercícios de Python
 
 ---
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=MiguelKemotu&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
