@@ -68,7 +68,6 @@ Já tenho experiência com Python e Delphi/Pascal, e gosto de trabalhar em equip
 />
 
 <br/>
----
 
 ### 📂 Projetos
 
