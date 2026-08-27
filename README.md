@@ -3,6 +3,8 @@
 🎓 **Estudante de Gestão de T.I.**  
 🇧🇷 Brasil
 
+🎯 Em busca de uma oportunidade de **estágio em desenvolvimento**
+
 Estou construindo minha trajetória em tecnologia, com foco em desenvolvimento e dados.  
 Atualmente estudando **Python** e me aprofundando em **SQL**.
 
@@ -24,5 +26,16 @@ Atualmente estudando **Python** e me aprofundando em **SQL**.
 
 ---
 
+## 📂 Projetos
+
+- [Python](https://github.com/MiguelKemotu/Python) — estudos e exercícios de Python
+
+---
+
+## 📫 Contato
+
+- ✉️ kemotumiguel3@gmail.com
+
+---
 
 ⭐ Aberto a oportunidades e colaborações em projetos de tecnologia
