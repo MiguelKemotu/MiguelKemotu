@@ -4,7 +4,7 @@
 
 Me chamo Miguel Kemotu, tenho 19 anos e sou de Assis, São Paulo. Curso Gestão de T.I. e tenho interesse especial em **desenvolvimento** e **gestão de projetos** — gosto de entender tanto a parte técnica quanto a organização por trás de um projeto rodando bem.
 
-Já tenho experiência com Python e gosto de trabalhar em equipe, sempre buscando aprender junto com quem está ao meu lado. Fora do estudo formal, minha curiosidade por tecnologias novas vira praticamente um hobby: gosto de testar ferramentas diferentes só para entender como funcionam. Estou em busca de uma oportunidade de **estágio em desenvolvimento** para colocar tudo isso em prática.
+Já tenho experiência com Python e Delphi/Pascal, e gosto de trabalhar em equipe, sempre buscando aprender junto com quem está ao meu lado. Fora do estudo formal, minha curiosidade por tecnologias novas vira praticamente um hobby: gosto de testar ferramentas diferentes só para entender como funcionam. Estou em busca de uma oportunidade de **estágio em desenvolvimento** para colocar tudo isso em prática.
 
 <p align="left">
     <a href="https://github.com/MiguelKemotu?tab=followers">
@@ -58,6 +58,14 @@ Já tenho experiência com Python e gosto de trabalhar em equipe, sempre buscand
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Delphi/Pascal" 
+    title="Delphi/Pascal"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.shields.io/badge/-Delphi%2FPascal-E23237?style=flat&logoColor=white" 
+/>
 
 <br/>
 <br/>
@@ -67,5 +75,26 @@ Já tenho experiência com Python e gosto de trabalhar em equipe, sempre buscand
 ### 📂 Projetos
 
 - [Python](https://github.com/MiguelKemotu/Python) — estudos e exercícios de Python
+- [Delphi](https://github.com/MiguelKemotu/Delphi) — estudos e exercícios de Delphi/Pascal
 
 ---
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=MiguelKemotu&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelKemotu&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
