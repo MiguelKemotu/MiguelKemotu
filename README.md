@@ -1,41 +1,91 @@
-### Olá 👋, eu sou o Miguel Kemotu
+# 👨🏻‍💻 Miguel Kemotu
 
-🎓 **Estudante de Gestão de T.I.**  
-🇧🇷 Brasil
+**`Estudante de Gestão de T.I.`**
 
-🎯 Em busca de uma oportunidade de **estágio em desenvolvimento**
+Me chamo Miguel Kemotu, tenho 19 anos e sou de Assis, São Paulo. Curso Gestão de T.I. e tenho interesse especial em **desenvolvimento** e **gestão de projetos** — gosto de entender tanto a parte técnica quanto a organização por trás de um projeto rodando bem.
 
-Estou construindo minha trajetória em tecnologia, com foco em desenvolvimento e dados.  
-Atualmente estudando **Python** e me aprofundando em **SQL**.
+Já tenho experiência com Python e gosto de trabalhar em equipe, sempre buscando aprender junto com quem está ao meu lado. Fora do estudo formal, minha curiosidade por tecnologias novas vira praticamente um hobby: gosto de testar ferramentas diferentes só para entender como funcionam. Estou em busca de uma oportunidade de **estágio em desenvolvimento** para colocar tudo isso em prática.
+
+<p align="left">
+    <a href="https://github.com/MiguelKemotu?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/MiguelKemotu?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+    <a href="https://instagram.com/miguelkemotu">
+        <img 
+            alt="Instagram" 
+            title="Me siga no Instagram" 
+            src="https://img.shields.io/badge/Instagram-@miguelkemotu-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        />
+    </a>
+    <a href="mailto:kemotumiguel3@gmail.com">
+        <img 
+            alt="E-mail" 
+            title="Me envie um e-mail" 
+            src="https://img.shields.io/badge/Email-kemotumiguel3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        />
+    </a>
+</p>
 
 ---
 
-## 🧠 O que estou aprendendo
+### 🤖 Linguagens e Tecnologias
 
-- 🐍 Python
-- 🗃️ SQL
-- 🏗️ Fundamentos de desenvolvimento de software
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<br/>
+<br/>
 
 ---
 
-## 🛠️ Tecnologias
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
----
-
-## 📂 Projetos
+### 📂 Projetos
 
 - [Python](https://github.com/MiguelKemotu/Python) — estudos e exercícios de Python
 
 ---
 
-## 📫 Contato
+### 📊 Estatísticas
 
-- ✉️ kemotumiguel3@gmail.com
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=MiguelKemotu&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
----
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelKemotu&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
-⭐ Aberto a oportunidades e colaborações em projetos de tecnologia
+</p>
