@@ -31,6 +31,7 @@ Atualmente estudando **Python** e me aprofundando em **SQL**.
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelKemotu&layout=compact&theme=tokyonight" />
 </p>
 
+
 ---
 
 ⭐ Aberto a oportunidades e colaborações em projetos de tecnologia
