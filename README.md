@@ -73,6 +73,6 @@ Já tenho experiência com Python e Delphi/Pascal, e gosto de trabalhar em equip
 
 - [Python](https://github.com/MiguelKemotu/Python) — estudos e exercícios de Python
 - [Delphi](https://github.com/MiguelKemotu/Delphi) — curso de Delphi/Pascal (front-end e back-end)
-
+- [Python/Streamlit](https://github.com/MiguelKemotu/agro-monitor) —  sistema de monitoramento agrícola em tempo real com dados da Open-Meteo API e SQLite
 ---
 
