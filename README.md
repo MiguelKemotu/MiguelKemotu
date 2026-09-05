@@ -6,14 +6,13 @@ Me chamo Miguel Kemotu, tenho 19 anos e sou de Assis, São Paulo. Curso Gestão 
 
 Já tenho experiência com Python e Delphi/Pascal, e gosto de trabalhar em equipe, sempre buscando aprender junto com quem está ao meu lado. Fora do estudo formal, minha curiosidade por tecnologias novas vira praticamente um hobby: gosto de testar ferramentas diferentes só para entender como funcionam. Estou em busca de uma oportunidade de **estágio em desenvolvimento** para colocar tudo isso em prática.
 
-<p align="left">
-    <a href="https://github.com/MiguelKemotu?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/MiguelKemotu?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<a href="https://github.com/MiguelKemotu?tab=followers">
+  <img 
+      alt="Seguidores" 
+      title="Me siga no GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/followers/MiguelKemotu?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+  />
+</a>
     <a href="https://instagram.com/miguelkemotu">
         <img 
             alt="Instagram" 
